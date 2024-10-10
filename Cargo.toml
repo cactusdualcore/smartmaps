@@ -1,0 +1,11 @@
+[package]
+name = "smart-maps"
+version = "0.1.0"
+edition = "2021"
+description = "Experimenting with spatial map represenations for computers"
+repository = "https://github.com/cactusdualcore/smart-maps"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
